@@ -3,4 +3,4 @@
 -- .gg/spaceware
 
 --// script
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/5xvv/FishWare-Main-Script/main/epic"))()
