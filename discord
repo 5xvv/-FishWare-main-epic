@@ -1,6 +1,6 @@
 -- Only take the loadstring, codes are obfuscated to prevent source code leak!
 -- Works best on Krnl and Synapse X, you can use other executors but issues may occur.
--- .gg/spaceware
+-- .gg/tCWfgQXCYE
 
 --// script
 loadstring(game:HttpGet("https://raw.githubusercontent.com/5xvv/FishWare-Main-Script/main/epic"))()
